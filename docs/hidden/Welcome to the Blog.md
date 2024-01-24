@@ -1,0 +1,1 @@
+Hello there! My name is Adrian B and I'm a software developer. I created this blog out of a desire to share my knowledge of software development with others. In here you'll gain lots of insight into my thought processes, get a sneak preview of the personal projects I'm working on, as well as hopefully learning a little something about what goes into solving a problem with code.
